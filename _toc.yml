@@ -3,6 +3,9 @@
 format: jb-book
 root: index
 parts:
-  chapters:
-  - file: notebooks/test
-  - file: notebooks/test_1
+  - caption: Cryospheric Examples
+    chapters:
+    - file: notebooks/test
+  - caption: Cryospheric Examples
+    chapters:
+    - file: notebooks/test_1
