@@ -1,0 +1,6 @@
+# Template from https://jupyterbook.org/en/stable/structure/toc.html.
+
+format: jb-book
+root: index
+chapters:
+- file: notebooks/test
